@@ -24,7 +24,7 @@ dataclasses-json==0.6.7
 decorator==5.1.1
 Deprecated==1.2.14
 distro==1.9.0
-duckduckgo_search==6.2.11
+duckduckgo_search==6.2.13
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
 exceptiongroup==1.2.2
 fabric==3.2.2
@@ -85,7 +85,7 @@ patsy==0.5.6
 pillow==10.4.0
 pluggy==1.5.0
 preshed==3.0.9
-primp==0.6.1
+primp==0.6.3
 prompt_toolkit==3.0.47
 PyAudio==0.2.14
 PyAutoGUI==0.9.54
